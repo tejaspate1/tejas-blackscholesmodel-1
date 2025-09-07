@@ -4,7 +4,7 @@ black_scholes_model.py
 A simple implementation of the Black-Scholes option pricing model
 for European call and put options.
 
-Author: Your Name
+Author: Tejas Patel
 License: MIT
 """
 
