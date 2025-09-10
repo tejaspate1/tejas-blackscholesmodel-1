@@ -1,4 +1,4 @@
-# tejas-blackscholesmodel-1
+# blackscholesmodel-1
 # Black-Scholes Option Pricing Model
 
 An open-source Python implementation of the **Black-Scholes model** for European call and put options.  
